@@ -3,3 +3,11 @@ apscheduler==3.10.4
 gspread==5.12.0
 oauth2client==4.1.3
 nest_asyncio==1.5.8
+# requirements.txt
+python-dotenv  # <--- ДОДАЙТЕ ЦЕЙ РЯДОК
+gspread
+oauth2client
+python-telegram-bot
+pytz
+nest-asyncio
+# ... (інші бібліотеки, якщо вони є)
